@@ -1,0 +1,44 @@
+Uni2Exe15
+
+
+LER valor
+
+inteiro ← PARTE_INTEIRA(valor)
+centavos ← (valor - inteiro) * 100
+
+ESCREVER "NOTAS"
+
+nota100 ← inteiro DIV 100
+inteiro ← inteiro MOD 100
+
+nota50 ← inteiro DIV 50
+inteiro ← inteiro MOD 50
+
+nota20 ← inteiro DIV 20
+inteiro ← inteiro MOD 20
+
+nota10 ← inteiro DIV 10
+inteiro ← inteiro MOD 10
+
+nota5 ← inteiro DIV 5
+inteiro ← inteiro MOD 5
+
+nota2 ← inteiro DIV 2
+inteiro ← inteiro MOD 2
+
+ESCREVER "MOEDAS"
+
+moeda1 ← inteiro
+moeda50 ← centavos DIV 50
+centavos ← centavos MOD 50
+
+moeda25 ← centavos DIV 25
+centavos ← centavos MOD 25
+
+moeda10 ← centavos DIV 10
+centavos ← centavos MOD 10
+
+moeda5 ← centavos DIV 5
+centavos ← centavos MOD 5
+
+moeda1cent ← centavos

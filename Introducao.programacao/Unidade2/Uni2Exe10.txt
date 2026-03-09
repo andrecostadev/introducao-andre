@@ -1,0 +1,13 @@
+Uni2Exe10
+
+
+// LocalTime horaParse //
+
+totalseg; horas; minutos; segundos: Inteiro 
+
+	Ler(totalseg)
+		
+		int horas = totalseg / 3600
+		int minutos = totalseg / 60
+		int segundos = totalseg  
+

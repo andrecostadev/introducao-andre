@@ -1,0 +1,17 @@
+Uni2Exe07 
+
+
+Nome: Texto
+Salariofx; TotalVendas; Comissão; SomaTotal: Real
+
+	Ler(Nome)
+	Ler(Salariofx)
+	Ler(TotalVendas)
+	Ler(Comissao)
+		Comissão = TotalVendas * 15 / 100
+		SomaTotal: Salariofx + Comissão
+	Escreva("O vendedor", Nome, "recebe um sálario total de: ", Somatotal) 
+ 
+	
+
+ 

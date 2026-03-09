@@ -1,0 +1,20 @@
+Uni2Exe04
+
+
+// Legenda: -nota A:3.5 //   nota B: 7.5  // soma= 11  //
+
+Mediapond: Real
+P1: Real
+P2: Real
+
+	Leia(P1)
+	Leia(P2)
+		Mediapond = (3.5 * P1)(7.5 * P2)/P1 + P2
+	Escreva(Mediapond)
+
+
+
+//TESTE:
+P1=2
+P2= 4
+Mediapond = 16

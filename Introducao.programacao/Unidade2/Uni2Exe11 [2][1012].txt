@@ -1,0 +1,18 @@
+Uni2Exe11 [2][1012]
+
+
+LER A
+LER B
+LER C
+
+areaTriangulo ← (A * C) / 2
+areaCirculo ← 3.14159 * C * C
+areaTrapezio ← ((A + B) * C) / 2
+areaQuadrado ← B * B
+areaRetangulo ← A * B
+
+ESCREVER "TRIANGULO:", areaTriangulo
+ESCREVER "CIRCULO:", areaCirculo
+ESCREVER "TRAPEZIO:", areaTrapezio
+ESCREVER "QUADRADO:", areaQuadrado
+ESCREVER "RETANGULO:", areaRetangulo

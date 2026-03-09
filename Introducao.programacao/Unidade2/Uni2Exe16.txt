@@ -1,0 +1,12 @@
+Uni2Exe16
+
+
+LER lata350
+LER garrafa600
+LER garrafa2L
+
+total ← (lata350 * 0.35) +
+         (garrafa600 * 0.6) +
+         (garrafa2L * 2)
+
+ESCREVER total, " litros"

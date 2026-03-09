@@ -1,0 +1,8 @@
+Uni2Exe13
+
+
+ LER distancia
+
+tempo ← distancia * 2
+
+ESCREVER tempo, " minutos"

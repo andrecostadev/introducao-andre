@@ -1,0 +1,10 @@
+Uni2Exe06
+
+
+
+Horatrab; Valorhr; Salario: Real
+
+	Leia(Horatrab)
+	Leia(Valorhr)
+		S = Horatrab * Valorhr
+	Escreva(Salario)

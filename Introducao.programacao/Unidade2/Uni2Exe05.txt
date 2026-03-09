@@ -1,0 +1,12 @@
+Uni2Exe05
+
+
+A;B;C;D; Diferença : Inteiros
+
+
+	Leia(A)
+	Leia(B)
+	Leia(C)
+	Leia(D)
+		Diferença = (A*B-C*D)
+	Escrever(Diferença)

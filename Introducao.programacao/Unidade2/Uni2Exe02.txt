@@ -1,0 +1,11 @@
+Uni2Exe02
+
+
+num1: Inteiro
+num2: Inteiro
+M: Inteiro
+
+Ler(num1)
+Ler(num2)
+	M = (num1)*(num2)
+Escrever(M)

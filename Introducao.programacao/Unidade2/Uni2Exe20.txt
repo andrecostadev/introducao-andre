@@ -1,0 +1,13 @@
+Uni2Exe20
+
+
+
+
+
+LER n
+
+lados ← (2 elevado a n) + 1
+
+quadrados ← lados * lados
+
+ESCREVER quadrados

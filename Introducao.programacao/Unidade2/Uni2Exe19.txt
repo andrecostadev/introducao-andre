@@ -1,0 +1,11 @@
+Uni2Exe19
+
+
+
+LER B
+LER C
+LER D
+
+A ← B
+
+ESCREVER A

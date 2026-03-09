@@ -1,0 +1,14 @@
+Uni2Exe12
+
+
+LER x1
+LER y1
+LER x2
+LER y2
+
+dx ← x2 - x1
+dy ← y2 - y1
+
+distancia ← RAIZ( dx*dx + dy*dy )
+
+ESCREVER distancia

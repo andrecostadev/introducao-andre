@@ -1,0 +1,9 @@
+Uni2Exe09
+
+
+Dolar; MoedaReal: Real
+	
+	Ler(Dolar)
+		MoedaReal = Dólar * 5.14
+	Escreva(MoedaReal)
+		
